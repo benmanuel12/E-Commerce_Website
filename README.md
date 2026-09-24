@@ -7,4 +7,16 @@ Users could sign up for an account and use said account to search for and put ca
 
 It also had a content management system for employees to traverse the database and add, update or delete existing entries
 
-PHP was used to allow for modular code.
+## Built with
+MongoDB, PHP, HTML, CSS
+
+## Features
+- Shopping Basket
+- Recommendation Carousel
+- Account Creation
+- Search bar
+
+## My role
+In the end, I did the core database, the recommendation carousel and some of the website design, but none of that is reflected in this copy of the code.
+My groupmate with the full code had to rush off after presentation so I don't have it.
+Happy to discuss what I did for the bits that I did, even if I can't prove I did them
